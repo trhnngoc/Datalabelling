@@ -1,0 +1,223 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "400_Static - bridge",
+      "points": [
+        [
+          377.0,
+          497.0
+        ],
+        [
+          2550.0,
+          777.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          379.0,
+          688.0
+        ],
+        [
+          903.0,
+          1050.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 58,
+        "flag": "Left Front"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          1103.0,
+          668.0
+        ],
+        [
+          1408.0,
+          995.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 0,
+        "flag": "Right Front"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          939.0,
+          754.0
+        ],
+        [
+          1097.0,
+          859.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 81,
+        "flag": "Left Front"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "400_Static - bridge",
+      "points": [
+        [
+          2448.0,
+          606.0
+        ],
+        [
+          2558.0,
+          735.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          337.0,
+          720.0
+        ],
+        [
+          492.0,
+          799.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "Left Rear"
+      },
+      "tl_shape": [
+        0,
+        0
+      ],
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          0.0,
+          718.0
+        ],
+        [
+          33.0,
+          844.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 0,
+        "flag": "Right Side"
+      },
+      "tl_shape": [
+        0,
+        0
+      ],
+      "mask": null
+    },
+    {
+      "label": "001_Dynamic - truck",
+      "points": [
+        [
+          1009.0,
+          703.0
+        ],
+        [
+          1065.566037735849,
+          783.4433962264151
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 93,
+        "flag": "Left Rear"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "001_Dynamic - truck",
+      "points": [
+        [
+          2285.0,
+          596.0
+        ],
+        [
+          2355.0,
+          631.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 30,
+        "flag": "Left Front"
+      },
+      "tl_shape": null,
+      "mask": null
+    }
+  ],
+  "imagePath": "QXD7000_REC_2024_08_09_10_43_09_F_000960.jpg",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

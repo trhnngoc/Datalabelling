@@ -1,0 +1,292 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "001_Dynamic - truck",
+      "points": [
+        [
+          609.0,
+          344.0
+        ],
+        [
+          1065.0,
+          874.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 82,
+        "flag": "Left Rear"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "009_Dynamic - pedestrian",
+      "points": [
+        [
+          1635.0,
+          559.0
+        ],
+        [
+          1811.0,
+          1058.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "009_Dynamic - pedestrian",
+      "points": [
+        [
+          1017.0,
+          606.0
+        ],
+        [
+          1153.0,
+          966.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "005_Dynamic - bicycle",
+      "points": [
+        [
+          1739.0,
+          688.0
+        ],
+        [
+          1884.0,
+          862.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "005_Dynamic - bicycle",
+      "points": [
+        [
+          1878.0,
+          697.0
+        ],
+        [
+          2001.0,
+          858.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "009_Dynamic - pedestrian",
+      "points": [
+        [
+          1419.0,
+          629.0
+        ],
+        [
+          1465.0,
+          767.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          1252.0,
+          634.0
+        ],
+        [
+          1360.0,
+          685.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 0,
+        "flag": "Right Side"
+      },
+      "tl_shape": [
+        0,
+        0
+      ],
+      "mask": null
+    },
+    {
+      "label": "005_Dynamic - bicycle",
+      "points": [
+        [
+          1322.0,
+          658.0
+        ],
+        [
+          1408.0,
+          720.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "302_Lane marking - diamond",
+      "points": [
+        [
+          1142.0,
+          741.0
+        ],
+        [
+          1263.0,
+          784.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "005_Dynamic - bicycle",
+      "points": [
+        [
+          1376.0,
+          655.0
+        ],
+        [
+          1438.0,
+          720.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "005_Dynamic - bicycle",
+      "points": [
+        [
+          1181.0,
+          650.0
+        ],
+        [
+          1206.0,
+          679.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "010_Dynamic - rider",
+      "points": [
+        [
+          1184.0,
+          639.0
+        ],
+        [
+          1201.0,
+          676.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": [
+        0,
+        0
+      ],
+      "mask": null
+    }
+  ],
+  "imagePath": "QXD1_REC_20240806_112713_F_001410.jpg",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

@@ -1,0 +1,174 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "301_Lane marking - crosswalk",
+      "points": [
+        [
+          0.0,
+          898.0
+        ],
+        [
+          652.0,
+          1215.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "009_Dynamic - pedestrian",
+      "points": [
+        [
+          2470.0,
+          655.0
+        ],
+        [
+          2558.0,
+          936.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "009_Dynamic - pedestrian",
+      "points": [
+        [
+          2427.0,
+          653.0
+        ],
+        [
+          2516.0,
+          921.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "208_Traffic sign - speed limit 20",
+      "points": [
+        [
+          2142.0,
+          165.0
+        ],
+        [
+          2197.0,
+          235.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": [
+        0,
+        0
+      ],
+      "mask": null
+    },
+    {
+      "label": "202_Traffic sign - red",
+      "points": [
+        [
+          2146.0,
+          233.0
+        ],
+        [
+          2198.0,
+          303.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "005_Dynamic - bicycle",
+      "points": [
+        [
+          1148.0,
+          663.0
+        ],
+        [
+          1197.0,
+          697.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "009_Dynamic - pedestrian",
+      "points": [
+        [
+          1355.0,
+          659.0
+        ],
+        [
+          1369.0,
+          692.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    }
+  ],
+  "imagePath": "QXD1_REC_20240806_144820_F_001740.jpg",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

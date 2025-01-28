@@ -1,0 +1,217 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          1369.0,
+          712.0
+        ],
+        [
+          1544.0,
+          914.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 2,
+        "flag": "Right Front"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          611.0,
+          759.0
+        ],
+        [
+          738.0,
+          838.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "Left Rear"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          1263.0,
+          739.0
+        ],
+        [
+          1341.0,
+          833.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 1,
+        "flag": "Right Front"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          976.0,
+          762.0
+        ],
+        [
+          1070.0,
+          823.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 74,
+        "flag": "Left Front"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "001_Dynamic - truck",
+      "points": [
+        [
+          906.0,
+          739.0
+        ],
+        [
+          982.0,
+          805.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 72,
+        "flag": "Left Rear"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          1321.0,
+          760.0
+        ],
+        [
+          1363.0,
+          799.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 98,
+        "flag": "Left Front"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          1178.0,
+          758.0
+        ],
+        [
+          1218.0,
+          791.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 85,
+        "flag": "Left Front"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          1232.0,
+          757.0
+        ],
+        [
+          1256.0,
+          779.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 2,
+        "flag": "Right Front"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "200_Traffic sign - blue",
+      "points": [
+        [
+          767.0,
+          711.0
+        ],
+        [
+          787.0,
+          733.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    }
+  ],
+  "imagePath": "QXD7000_REC_2024_08_09_17_21_01_F_000330.jpg",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

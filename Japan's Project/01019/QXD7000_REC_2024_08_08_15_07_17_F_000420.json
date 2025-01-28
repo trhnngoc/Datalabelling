@@ -1,0 +1,318 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "301_Lane marking - crosswalk",
+      "points": [
+        [
+          0,
+          1107
+        ],
+        [
+          2301,
+          1438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          213,
+          735
+        ],
+        [
+          530,
+          914
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 40,
+        "flag": "Left Rear"
+      },
+      "mask": null
+    },
+    {
+      "label": "005_Dynamic - bicycle",
+      "points": [
+        [
+          46,
+          839
+        ],
+        [
+          244,
+          1019
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "mask": null
+    },
+    {
+      "label": "300_Lane marking - stop line",
+      "points": [
+        [
+          975,
+          1026
+        ],
+        [
+          1707,
+          1067
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          1695,
+          718
+        ],
+        [
+          1885,
+          821
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 43,
+        "flag": "Right Front"
+      },
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          1855,
+          707
+        ],
+        [
+          2034,
+          807
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 48,
+        "flag": "Right Front"
+      },
+      "mask": null
+    },
+    {
+      "label": "303_Lane marking - bicycle symbol",
+      "points": [
+        [
+          139,
+          1036
+        ],
+        [
+          305,
+          1093
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          1254,
+          739
+        ],
+        [
+          1313,
+          798
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 98,
+        "flag": "Left Front"
+      },
+      "mask": null
+    },
+    {
+      "label": "004_Dynamic - motorcycle",
+      "points": [
+        [
+          967,
+          776
+        ],
+        [
+          1017,
+          830
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          1152,
+          745
+        ],
+        [
+          1206,
+          789
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 3,
+        "flag": "Right Rear"
+      },
+      "mask": null
+    },
+    {
+      "label": "303_Lane marking - bicycle symbol",
+      "points": [
+        [
+          1474,
+          916
+        ],
+        [
+          1538,
+          947
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "mask": null
+    },
+    {
+      "label": "001_Dynamic - truck",
+      "points": [
+        [
+          1213,
+          734
+        ],
+        [
+          1256,
+          773
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 96,
+        "flag": "Left Rear"
+      },
+      "mask": null
+    },
+    {
+      "label": "009_Dynamic - pedestrian",
+      "points": [
+        [
+          1407,
+          736
+        ],
+        [
+          1431,
+          798
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "mask": null
+    },
+    {
+      "label": "202_Traffic sign - red",
+      "points": [
+        [
+          955,
+          706
+        ],
+        [
+          983,
+          733
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "mask": null
+    }
+  ],
+  "imagePath": "QXD7000_REC_2024_08_08_15_07_17_F_000420.jpg",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

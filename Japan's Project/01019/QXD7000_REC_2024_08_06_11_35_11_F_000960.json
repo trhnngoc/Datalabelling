@@ -1,0 +1,272 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          1925.0,
+          548.0
+        ],
+        [
+          2558.0,
+          1435.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 0,
+        "flag": "Right Side"
+      },
+      "tl_shape": [
+        0,
+        0
+      ],
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          1786.0,
+          730.0
+        ],
+        [
+          2414.0,
+          1118.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 40,
+        "flag": "Right Front"
+      },
+      "tl_shape": [
+        0,
+        0
+      ],
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          1346.0,
+          732.0
+        ],
+        [
+          1678.0,
+          917.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 24,
+        "flag": "Left Front"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "004_Dynamic - motorcycle",
+      "points": [
+        [
+          1685.0,
+          797.0
+        ],
+        [
+          1888.0,
+          1006.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "000_Dynamic - car",
+      "points": [
+        [
+          633.0,
+          740.0
+        ],
+        [
+          874.0,
+          847.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 0,
+        "flag": "Right Side"
+      },
+      "tl_shape": [
+        0,
+        0
+      ],
+      "mask": null
+    },
+    {
+      "label": "301_Lane marking - crosswalk",
+      "points": [
+        [
+          431.0,
+          868.0
+        ],
+        [
+          1006.0,
+          904.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "001_Dynamic - truck",
+      "points": [
+        [
+          905.0,
+          682.0
+        ],
+        [
+          1044.0,
+          825.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 35,
+        "flag": "Right Front"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "300_Lane marking - stop line",
+      "points": [
+        [
+          371.0,
+          909.0
+        ],
+        [
+          715.0,
+          932.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "203_Traffic sign - crosswalk",
+      "points": [
+        [
+          267.0,
+          636.0
+        ],
+        [
+          310.0,
+          689.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "202_Traffic sign - red",
+      "points": [
+        [
+          266.0,
+          569.0
+        ],
+        [
+          308.0,
+          616.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "300_Lane marking - stop line",
+      "points": [
+        [
+          988.0,
+          853.0
+        ],
+        [
+          1016.0,
+          869.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    }
+  ],
+  "imagePath": "QXD7000_REC_2024_08_06_11_35_11_F_000960.jpg",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

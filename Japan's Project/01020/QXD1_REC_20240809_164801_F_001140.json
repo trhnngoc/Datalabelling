@@ -1,0 +1,105 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "004_Dynamic - motorcycle",
+      "points": [
+        [
+          1604.0,
+          768.0
+        ],
+        [
+          1843.0,
+          939.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "400_Static - bridge",
+      "points": [
+        [
+          1330.0,
+          578.0
+        ],
+        [
+          1550.0,
+          673.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    },
+    {
+      "label": "201_Traffic sign - yellow",
+      "points": [
+        [
+          1530.0,
+          649.0
+        ],
+        [
+          1549.0,
+          669.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": [
+        0,
+        0
+      ],
+      "mask": null
+    },
+    {
+      "label": "004_Dynamic - motorcycle",
+      "points": [
+        [
+          1658.934306569343,
+          782.0583941605839
+        ],
+        [
+          1900.729927007299,
+          974.3795620437957
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "vehicle_flag": {
+        "px": 50,
+        "flag": "None"
+      },
+      "tl_shape": null,
+      "mask": null
+    }
+  ],
+  "imagePath": "QXD1_REC_20240809_164801_F_001140.jpg",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}
